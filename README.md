@@ -6,7 +6,7 @@ This repository demonstrates the completed Cisco Packet Tracer Projects which in
  
  <h4>Goals Accomplished:</h4>
  
-• Set Up the Topology and Initialize Devices.
+• Completed the Set Up for the Topology and Initialized Devices.
 
 • Configured Basic Device Settings and Verify Connectivity.
 
