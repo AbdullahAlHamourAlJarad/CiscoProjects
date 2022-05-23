@@ -37,3 +37,25 @@ Configuring the Static and Default Routes.png
  <h3>Configuring and Verifying Extended ACLs</h3>
 
  <h4>Goals Accomplished:</h4>
+
+• Configured basic settings on PCs, routers, and switches
+
+• Configured and Verify Extended Numbered and Named ACLs
+
+![Screen Shot 2022-05-23 at 6 39 47 PM](https://user-images.githubusercontent.com/71096610/169916015-1930219b-2d6a-4de5-b825-4f4e89437317.png)
+
+ <h3>Configuring VLANs and Trunking</h3>
+ 
+ <h4>Goals Accomplished:</h4>
+  
+  
+• Configured Basic Device Settings
+
+• Created VLANs and Assign Switch Ports
+
+• Configured an 802.1Q Trunk between the Switches
+
+• Configured EIGRP
+
+• Configured default routing
+
