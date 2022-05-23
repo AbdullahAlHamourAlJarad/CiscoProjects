@@ -59,3 +59,13 @@ Configuring the Static and Default Routes.png
 
 • Configured default routing
 
+![Screen Shot 2022-05-23 at 6 43 15 PM](https://user-images.githubusercontent.com/71096610/169916310-5fcfe0ec-eaf6-409d-a70b-0fa741aa2143.png)
+
+ <h3>Configuring Basic and Static NAT</h3>
+ 
+  <h4>Goals Accomplished:</h4>
+  
+ • Configured Basic NAT and Static NAT
+ 
+ ![Screen Shot 2022-05-23 at 6 45 37 PM](https://user-images.githubusercontent.com/71096610/169916538-b56e13e6-2f98-4630-aae1-d56a6e045071.png)
+
