@@ -31,3 +31,4 @@ Configuring the Static and Default Routes.png
 
 • Changed OSPF Metrics
 
+![Screen Shot 2022-05-23 at 6 25 46 PM](https://user-images.githubusercontent.com/71096610/169914699-2fbd92d2-eb91-4da4-82c9-84ae45540c57.png)
