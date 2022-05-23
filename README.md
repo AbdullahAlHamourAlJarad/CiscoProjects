@@ -16,3 +16,17 @@ This repository demonstrates the completed Cisco Packet Tracer Projects which in
 Configuring the Static and Default Routes.png
 
 ![ ConfiguringtheStaticandDefaultRoutes](https://user-images.githubusercontent.com/71096610/169914033-501a08d5-f3db-4469-b05c-5dd2b5567610.png)
+
+ Configuring Basic Single-Area OSPFv2
+ Goals Accomplished
+ 
+• Built the Network and Configure Basic Device Settings
+
+• Configured and V erify OSPF Routing
+
+• Changed Router ID Assignments
+
+• Configured OSPF Passive Interfaces
+
+• Changed OSPF Metrics
+
