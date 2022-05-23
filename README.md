@@ -10,3 +10,6 @@ This repository demonstrates the completed Cisco Packet Tracer Projects which in
 • Configured Static Routes.
 • Configured and Verify a Default Route.
 
+Configuring the Static and Default Routes.png
+
+![Configuring the Static and Default Routes](Configuring the Static and Default Routes.png)
