@@ -6,8 +6,11 @@ This repository demonstrates the completed Cisco Packet Tracer Projects which in
  Goals Accomplished:
  
 • Set Up the Topology and Initialize Devices.
+
 • Configured Basic Device Settings and Verify Connectivity.
+
 • Configured Static Routes.
+
 • Configured and Verify a Default Route.
 
 Configuring the Static and Default Routes.png
