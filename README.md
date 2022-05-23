@@ -2,8 +2,9 @@
 This repository demonstrates the completed Cisco Packet Tracer Projects which include configurations of Static/Default routes, Single-Area OSPFv2, Extended ACL’s, VLANs and Trunking, and Basic/Static NAT.
 
 
- Configuring the Static and Default Routes
- Goals Accomplished:
+ <h3>Configuring the Static and Default Routes</h3>
+ 
+ <h4>Goals Accomplished:</h4>
  
 • Set Up the Topology and Initialize Devices.
 
