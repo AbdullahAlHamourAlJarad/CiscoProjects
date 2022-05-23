@@ -12,4 +12,4 @@ This repository demonstrates the completed Cisco Packet Tracer Projects which in
 
 Configuring the Static and Default Routes.png
 
-![Configuring the Static and Default Routes](CiscoProjects/Configuring%20the%20Static%20and%20Default%20Routes.png)
+![ ConfiguringtheStaticandDefaultRoutes](https://user-images.githubusercontent.com/71096610/169914033-501a08d5-f3db-4469-b05c-5dd2b5567610.png)
